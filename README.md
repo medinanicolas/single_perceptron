@@ -4,8 +4,8 @@ Primera red neuronal creada a partir de la especialización [Deep Learning](http
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Perceptr%C3%B3n_5_unidades.svg/1280px-Perceptr%C3%B3n_5_unidades.svg.png" alt="perceptron" width="1024"> 
 
 ## Archivos
-* [Notebook](single_percptron.ipnb)
-* * [Notebook PDF](single_percptron.ipnb)
+* [Notebook](single_perceptron.ipynb)
+* * [Notebook PDF](single_perceptron.pdf)
 * [Pikachu Dataset](datasets/pikachu)
 * [Course images](course_images)
 
